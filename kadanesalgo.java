@@ -17,5 +17,5 @@ public class kadanesalgo {
         int [] numbers = { 1,-2,6,-1,3};
         printmaxsum(numbers);
         
-    }
+     }
 }
