@@ -1,4 +1,4 @@
-public class spiral_matrix {
+ public class spiral_matrix {
 
     public static void printspiral(int matrix[][]) {
         int startrow = 0;
