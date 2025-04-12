@@ -1,4 +1,4 @@
-import java.util.Arrays;
+ import java.util.Arrays;
 
 public class LEETCODE3 {
     public static boolean containsDuplicate(int[] nums) {
