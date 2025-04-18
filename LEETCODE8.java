@@ -20,7 +20,7 @@ public class LEETCODE8 {
                     right = mid - 1;
                 }
             }
-        }
+         }
         return -1;
     }
 }
