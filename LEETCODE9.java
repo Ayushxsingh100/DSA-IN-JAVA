@@ -17,6 +17,6 @@ public class LEETCODE9 {
             }
     
             return maxArea;
-        }
+         }
     
 }
