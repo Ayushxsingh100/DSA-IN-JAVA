@@ -22,5 +22,5 @@ public class LEETCODE8 {
             }
          }
         return -1;
-    }
+     }
 }
