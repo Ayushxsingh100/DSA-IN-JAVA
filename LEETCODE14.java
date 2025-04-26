@@ -4,7 +4,7 @@ class Solution {
 
         if(first == -1){
             return new int[]{-1,-1};
-        }
+         }
 
         int last = this.findBound(nums, target, false);
         
