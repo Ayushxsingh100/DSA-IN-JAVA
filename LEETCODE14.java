@@ -6,8 +6,8 @@ class Solution {
             return new int[]{-1,-1};
          }
 
-        int last = this.findBound(nums, target, false);
-        
+         int last = this.findBound(nums, target, false);
+          
         return new int[]{first,last};
     }
 
