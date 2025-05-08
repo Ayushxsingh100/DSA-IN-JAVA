@@ -5,7 +5,7 @@ public class LEETCODE2 {
 
         for (int i = 0; i < prices.length; i++) {
             if (prices[i] > buy_price) {
-                int profit = prices[i] - buy_price;
+                 int profit = prices[i] - buy_price;
                 max_profit = Math.max(max_profit, profit);
             } else {
                 buy_price = prices[i];
