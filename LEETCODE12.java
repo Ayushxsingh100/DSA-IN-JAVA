@@ -10,7 +10,7 @@ class LEETCODE12 {
     public void reverse(int[] nums, int i) {
         int j = nums.length - 1; // last index
         while (i < j) { // reversing till i and j meet
-            swap(nums, i, j);
+             swap(nums, i, j);
             i++;
             j--;
         }
