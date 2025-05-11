@@ -7,7 +7,7 @@ class Solution {
             i--;
         }
         if(i >= 0){
-            int j = nums.length - 1;
+            i nt j = nums.length - 1;
             while(nums[j] <= nums[i]){
                 j--;
             }
