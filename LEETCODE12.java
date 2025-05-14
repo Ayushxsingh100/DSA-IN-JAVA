@@ -1,4 +1,4 @@
-class LEETCODE12 {
+ class LEETCODE12 {
     // Function to swap two elements in the array
     public void swap(int[] nums, int i, int j) {
         int temp = nums[i];
