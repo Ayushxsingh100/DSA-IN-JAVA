@@ -6,7 +6,7 @@ public static int removeD(int [] nums){
     for(int j = 1 ; j< nums.length-1 ; j++){
          if(nums[j] != nums[i]){
             i++;
-            nums[i] = nums[j];
+             nums[i] = nums[j];
         }
             return i+1;
     }
