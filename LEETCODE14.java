@@ -2,7 +2,7 @@ class Solution {
     public int[] searchRange(int[] nums, int target) {
         int first = this.findBound(nums, target, true);
 
-        if(first == -1){
+         if(first == -1){
             return new int[]{-1,-1};
          }
 
